@@ -20,15 +20,9 @@ toilet -f pagga "Fash Gaming"| lolcat
 clear
 termux-open-url https://www.youtube.com/channel/UCF61OnE5_ZG3k9LGg-s0e2A?sub_confirmation=1
 sleep 5
-toilet -f pagga "Hacking Channel"|lolcat
-clear
-termux-open-url https://www.youtube.com/channel/UC5jBHEmMrYbkh5oWFkbkzZg?sub_confirmation=1
-sleep 5
 neofetch
-echo "╔══════════════════════════════════════╗"
 toilet -f pagga " ANONYMOUS"| lolcat
 toilet -f pagga " INDONESIA"| lolcat
-echo "╚══════════════════════════════════════╝"
 bi='\033[34;1m' #biru
 ij='\033[32;1m' #ijo
 pr='\033[35;1m' #purple
@@ -51,9 +45,7 @@ echo $purple "
 \033[1;93m║\033[1;96m* \033[1;93mGitHub  \033[1;93m: \033[1;93m\033[4mhttps://github.com/F45H94M1N9\033[0m \033[1;93m  ║
 \033[1;93m╚════════════════════════════════════════════╝"
 echo ""
-echo "╔══════════════════════════════╗"
-toilet -f pagga "   MENU TOOLS!!!"| lolcat
-echo "╚══════════════════════════════╝"
+toilet -f pagga "   MENU TOOLS   "| lolcat
 echo $cy "
 ┏━━━━━┫{menu dark fb}┣━━━━━┓
 ┃
